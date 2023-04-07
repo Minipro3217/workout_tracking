@@ -22,4 +22,4 @@ This Python program allows you to track the number of reps done per exercise for
 This code is licensed under the MIT License. See LICENSE for more information.
 
 ## Credits
-This program was created by [Your Name].
+This program was created by Minipro3217.
